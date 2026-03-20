@@ -4,5 +4,5 @@ A kind of incomplete modular synth </3 Issue is...it's not so complete :heavysob
 
 ### it currently has:
 - square vco
-- vcf
+- vca
 - guitar input
