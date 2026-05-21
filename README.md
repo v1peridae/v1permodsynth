@@ -23,7 +23,11 @@
 
 I am left with adding:
 - low freq oscillator
+- vcf
 - an EG
+- CV mixer
+- random source
+- sequencer
 - some other componets i guess
 
 note on commits:
