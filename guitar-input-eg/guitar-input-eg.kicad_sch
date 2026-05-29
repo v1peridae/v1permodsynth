@@ -1654,12 +1654,6 @@
 		)
 	)
 	(junction
-		(at 162.56 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "02da60cb-7f7c-46ab-8e3a-5e7c0e5b4c26")
-	)
-	(junction
 		(at 133.35 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1670,6 +1664,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0aede08e-8900-4bcb-9e08-b82825847368")
+	)
+	(junction
+		(at 118.11 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c623c24-9f7d-4a18-b48c-110c4d6e1d50")
 	)
 	(junction
 		(at 187.96 90.17)
@@ -1684,22 +1684,16 @@
 		(uuid "438fa68d-f688-4b57-bfb3-80edb6d0a016")
 	)
 	(junction
-		(at 118.11 52.07)
+		(at 140.97 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4918275c-c6af-4480-8573-c2c07eb1f2a6")
+		(uuid "4b2ab5cf-87bb-4a18-bf62-52b99c4f3e02")
 	)
 	(junction
 		(at 179.07 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4dc7210e-6de4-4e4f-9ce4-76de7e26e008")
-	)
-	(junction
-		(at 140.97 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4e6f7086-810c-454c-88e3-34f898beb3c0")
 	)
 	(junction
 		(at 86.36 29.21)
@@ -1712,6 +1706,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "832b7de8-cf48-48fa-b48e-72f3099594a3")
+	)
+	(junction
+		(at 101.6 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95e1b674-04b3-43d7-8162-4e46732e9587")
 	)
 	(junction
 		(at 82.55 40.64)
@@ -1735,7 +1735,7 @@
 		(at 90.17 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a9c0613b-6f4a-40e6-a39f-dab2d61be413")
+		(uuid "b5f67ec7-dcda-47ef-9c78-a0fa704205e7")
 	)
 	(junction
 		(at 144.78 39.37)
@@ -1756,16 +1756,10 @@
 		(uuid "ec715665-2228-46b0-b70a-d68b5e3bf79c")
 	)
 	(junction
-		(at 101.6 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed4c786d-5136-4e93-89c3-acdccb7bfb5f")
-	)
-	(junction
 		(at 140.97 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fe6e0cb4-4198-4d02-9d1c-eddc4eada6c3")
+		(uuid "f50a6eb6-3b46-4897-9c9a-3a6003b0ce7b")
 	)
 	(no_connect
 		(at 166.37 30.48)
@@ -1776,7 +1770,7 @@
 		(uuid "03dca039-e8df-4b51-83b8-188846ac50fb")
 	)
 	(no_connect
-		(at 64.77 78.74)
+		(at 69.85 88.9)
 		(uuid "14cdc162-9fa7-4a3f-8760-3346b288d514")
 	)
 	(no_connect
@@ -1807,16 +1801,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 85.09) (xy 74.93 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02e98405-ef9b-4c4a-90e0-8bf75beedd2a")
-	)
-	(wire
-		(pts
 			(xy 162.56 83.82) (xy 162.56 88.9)
 		)
 		(stroke
@@ -1824,6 +1808,16 @@
 			(type default)
 		)
 		(uuid "034b556e-0bd9-4188-92d4-9d39b6097483")
+	)
+	(wire
+		(pts
+			(xy 162.56 59.69) (xy 162.56 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "036a3c23-ce20-4c68-8cde-521a96a8c0f6")
 	)
 	(wire
 		(pts
@@ -1844,16 +1838,6 @@
 			(type default)
 		)
 		(uuid "0d1eb0db-0944-4dc5-8384-18df96db089d")
-	)
-	(wire
-		(pts
-			(xy 144.78 68.58) (xy 144.78 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e6314ef-5d28-4196-9e0f-28a39954e337")
 	)
 	(wire
 		(pts
@@ -1887,6 +1871,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 76.2) (xy 90.17 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b3a0b04-27ee-4c8d-bbce-f84ec8c00b9a")
+	)
+	(wire
+		(pts
 			(xy 162.56 66.04) (xy 165.1 66.04)
 		)
 		(stroke
@@ -1907,7 +1901,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 63.5) (xy 140.97 76.2)
+			(xy 140.97 63.5) (xy 140.97 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1977,6 +1971,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 80.01) (xy 74.93 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "363eb288-5247-4cab-a6da-82916398f244")
+	)
+	(wire
+		(pts
 			(xy 140.97 83.82) (xy 140.97 88.9)
 		)
 		(stroke
@@ -2007,7 +2011,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 38.1) (xy 101.6 52.07)
+			(xy 101.6 33.02) (xy 101.6 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2057,16 +2061,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 72.39) (xy 162.56 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b551722-75b8-4caa-bbec-0962d32aacc7")
-	)
-	(wire
-		(pts
 			(xy 149.86 90.17) (xy 153.67 90.17)
 		)
 		(stroke
@@ -2074,16 +2068,6 @@
 			(type default)
 		)
 		(uuid "5d770f4e-7db3-4105-9af1-f47a7b44d4e4")
-	)
-	(wire
-		(pts
-			(xy 90.17 88.9) (xy 90.17 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e32a77c-a6a9-41b6-a018-4f49aba54d96")
 	)
 	(wire
 		(pts
@@ -2137,16 +2121,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 88.9) (xy 90.17 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75bb6171-0d1f-4986-99bd-f56ba915abee")
-	)
-	(wire
-		(pts
 			(xy 162.56 30.48) (xy 162.56 34.29)
 		)
 		(stroke
@@ -2154,16 +2128,6 @@
 			(type default)
 		)
 		(uuid "763b0721-087e-4e43-827c-bd483e387f49")
-	)
-	(wire
-		(pts
-			(xy 74.93 80.01) (xy 68.58 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7770a8be-dfcb-46ce-8c5a-2bd8a201c885")
 	)
 	(wire
 		(pts
@@ -2247,6 +2211,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 63.5) (xy 144.78 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ca90779-4392-4856-bb6a-f36d1cdca243")
+	)
+	(wire
+		(pts
 			(xy 168.91 99.06) (xy 179.07 99.06)
 		)
 		(stroke
@@ -2267,6 +2241,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 59.69) (xy 162.56 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e194a93-a25f-410e-a540-117db571d5c6")
+	)
+	(wire
+		(pts
 			(xy 143.51 39.37) (xy 144.78 39.37)
 		)
 		(stroke
@@ -2277,7 +2261,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 80.01) (xy 68.58 74.93)
+			(xy 66.04 85.09) (xy 74.93 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2304,26 +2288,6 @@
 			(type default)
 		)
 		(uuid "ab6d6cdc-e578-430b-bbf1-ee6e942e3b8f")
-	)
-	(wire
-		(pts
-			(xy 162.56 72.39) (xy 162.56 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac356db4-d3ca-4998-a9f9-11c840494acd")
-	)
-	(wire
-		(pts
-			(xy 140.97 63.5) (xy 144.78 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae16f5b1-7f65-4832-8f3d-9dc48cd2dd9f")
 	)
 	(wire
 		(pts
@@ -2357,16 +2321,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 33.02) (xy 101.6 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfb138cd-ff0e-4b87-ae1b-a2a10ee6ab5d")
-	)
-	(wire
-		(pts
 			(xy 144.78 34.29) (xy 144.78 39.37)
 		)
 		(stroke
@@ -2387,7 +2341,17 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 72.39) (xy 162.56 78.74)
+			(xy 90.17 76.2) (xy 90.17 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6f17b29-f991-4288-9c1f-119abe1f55d7")
+	)
+	(wire
+		(pts
+			(xy 162.56 66.04) (xy 162.56 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2404,6 +2368,16 @@
 			(type default)
 		)
 		(uuid "e6c050ff-4b4f-4d86-8329-0844500da27f")
+	)
+	(wire
+		(pts
+			(xy 140.97 68.58) (xy 140.97 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6d4fda6-7cc7-4c7a-902a-312455a6237b")
 	)
 	(wire
 		(pts
@@ -2424,6 +2398,26 @@
 			(type default)
 		)
 		(uuid "ec09e11e-387b-4bbe-9fbc-f22582d8071e")
+	)
+	(wire
+		(pts
+			(xy 101.6 38.1) (xy 101.6 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec37c110-2193-43c8-88ba-9555014c2c37")
+	)
+	(wire
+		(pts
+			(xy 140.97 68.58) (xy 144.78 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed6f33c6-42fb-4c45-bf41-3868197157e1")
 	)
 	(wire
 		(pts
@@ -2478,6 +2472,7 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 140.97 80.01 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2485,7 +2480,7 @@
 		(dnp no)
 		(uuid "028e1a60-5e0f-423f-8a92-afbf1e644262")
 		(property "Reference" "GAIN1"
-			(at 150.876 78.74 0)
+			(at 150.876 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2494,7 +2489,7 @@
 			)
 		)
 		(property "Value" "A1M"
-			(at 149.352 80.518 0)
+			(at 149.352 79.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2820,6 +2815,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 93.98 38.1 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2844,7 +2840,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 92.71 35.56 0)
+			(at 92.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2853,7 +2849,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 95.25 33.02 0)
+			(at 95.25 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3433,7 +3429,8 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 125.73 49.53 0)
-		(unit 1)
+		(mirror x)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3457,7 +3454,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 124.46 46.99 0)
+			(at 124.46 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3466,7 +3463,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 127 44.45 0)
+			(at 127 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3529,7 +3526,7 @@
 			(project "guitar-input-eg"
 				(path "/6f44542c-97dd-47aa-a9a3-1857a918a95d"
 					(reference "U3")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -4078,7 +4075,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 64.77 74.93 0)
+		(at 66.04 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4086,7 +4083,7 @@
 		(dnp no)
 		(uuid "7928d8de-c69e-4788-a0fc-eaf6903cb358")
 		(property "Reference" "GAIN3"
-			(at 74.676 73.66 0)
+			(at 64.77 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4095,7 +4092,7 @@
 			)
 		)
 		(property "Value" "A1M"
-			(at 73.152 75.438 0)
+			(at 66.548 80.518 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4104,7 +4101,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical"
-			(at 64.77 74.93 0)
+			(at 66.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4113,7 +4110,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 74.93 0)
+			(at 66.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4122,7 +4119,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 64.77 74.93 0)
+			(at 66.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4922,7 +4919,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 64.77 71.12 180)
+		(at 62.23 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4931,7 +4928,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6919ffd-367b-4501-adaf-38645c940106")
 		(property "Reference" "#PWR010"
-			(at 64.77 64.77 0)
+			(at 55.88 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4940,7 +4937,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 66.04 0)
+			(at 57.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4948,7 +4945,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 71.12 0)
+			(at 62.23 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4957,7 +4954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 71.12 0)
+			(at 62.23 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4966,7 +4963,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 71.12 0)
+			(at 62.23 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4989,7 +4986,8 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 152.4 66.04 0)
-		(unit 1)
+		(mirror x)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5013,7 +5011,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 151.13 63.5 0)
+			(at 151.13 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5022,7 +5020,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 153.67 60.96 0)
+			(at 153.67 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5085,7 +5083,7 @@
 			(project "guitar-input-eg"
 				(path "/6f44542c-97dd-47aa-a9a3-1857a918a95d"
 					(reference "U1")
-					(unit 1)
+					(unit 3)
 				)
 			)
 		)
@@ -5250,7 +5248,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 170.18 81.28 0)
-		(unit 1)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5346,7 +5344,7 @@
 			(project "guitar-input-eg"
 				(path "/6f44542c-97dd-47aa-a9a3-1857a918a95d"
 					(reference "U5")
-					(unit 1)
+					(unit 4)
 				)
 			)
 		)
@@ -5354,7 +5352,8 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
 		(at 82.55 82.55 0)
-		(unit 1)
+		(mirror x)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5432,7 +5431,7 @@
 			(project "guitar-input-eg"
 				(path "/6f44542c-97dd-47aa-a9a3-1857a918a95d"
 					(reference "U6")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
