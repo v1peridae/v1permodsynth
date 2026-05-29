@@ -21,14 +21,15 @@
 <img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/806f5bd4-b82d-4508-a96c-105a4bf64d2d" />
 <img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/8626b2f1-df76-451e-bd0c-37a0e78e8388" />
 
-I am left with adding:
-- low freq oscillator
-- vcf
-- an EG
-- CV mixer
-- random source
-- sequencer
-- some other componets i guess
+-ar
+need to add img
+
+-4lfo
+need to add img
+
+
+-fm drums
+need to add image
 
 note on commits:
 guh it totally skipped my mind to make frequent commits of this so i accept my fate if it means my hours get reduced since this is one is on me.
