@@ -50,7 +50,9 @@
 
 
 ## more on the process
-i've never really made anything this complex so i totally understand if it might not work on the first go but i'm really happy with how far i've gotten with this. i originally made this for fallout but bc of visa stuff i'd like to submit this to outpost :) if you'd like to learn more about the making process check out my JOURNAL.md 
+i've never really made anything this complex so i totally understand if it might not work on the first go but i'm really happy with how far i've gotten with this. if you'd like to learn more about the making process check out my JOURNAL.md 
+
+credits to https://www.bartonmusicalcircuits.com/ which is where i learnt how to do all of this :)
 
 casing - it currently doesnt have a case but i have all the measurements and hope to build a wooden or hard cardboard case
 
